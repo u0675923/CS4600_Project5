@@ -56,6 +56,8 @@ class MeshDrawer
 		// [TO-DO] Update the contents of the vertex buffer objects.
 		this.numTriangles = vertPos.length / 3;
 	}
+
+	// temp
 	
 	// This method is called when the user changes the state of the
 	// "Swap Y-Z Axes" checkbox. 
